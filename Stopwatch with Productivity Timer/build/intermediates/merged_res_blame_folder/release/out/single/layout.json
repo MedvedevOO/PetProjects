@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-mergeReleaseResources-20:/layout/dialog_main.xml",
+        "source": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-22:/layout/dialog_main.xml"
+    },
+    {
+        "merged": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-mergeReleaseResources-20:/layout/activity_main.xml",
+        "source": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-22:/layout/activity_main.xml"
+    }
+]
